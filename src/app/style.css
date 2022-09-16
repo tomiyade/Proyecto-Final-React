@@ -1,0 +1,56 @@
+.navBar {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(154, 163, 165);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navBar img {
+    width: 80px;
+    height: 80px;
+}
+
+.link {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.fotoCarrito {
+    font-size: 45px;
+}
+
+.fotoCarrito img {
+    width: 50px;
+    height: 50px;
+}
+
+.App {
+    text-align: center;
+}
+
+body {
+    background: #dcdcdc;
+}
+
+.card-box {
+    padding: 20px;
+    border-radius: 3px;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+
+.text-pink {
+    color: #000000 !important;
+}
+
+.text-muted {
+    color: #380dd3 !important;
+}
+
+h4 {
+    line-height: 22px;
+    font-size: 18px;
+}
